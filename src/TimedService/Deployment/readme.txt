@@ -1,1 +1,0 @@
-Must run the batch file with elevated security.

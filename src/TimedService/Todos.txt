@@ -1,7 +1,0 @@
-* (Done) Run from console allow user to select Y/N
-* (Done) Log
-* (Done)LogException methods
-* Data contract - Have a look how it is done from the REAA project first.
-* WIX for deployment
-* Exception policy
-* Demo how this project can be reused by other project as a timed scheduler framework.
